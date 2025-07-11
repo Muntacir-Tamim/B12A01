@@ -115,3 +115,44 @@ nav button:hover{
     width: 300px;
 }
 
+
+/* second section */
+.second-section{
+    margin: 0 auto;
+    width: 1050px;
+    height: 170px;
+    margin-bottom: 100px;
+    margin-top: 20px;
+    padding: 50px;
+    border-radius: 30px;
+    background-color: #E2E1EB
+    
+}
+.second-section h1{
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 35px;
+}
+.zero{
+    
+     display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    margin-top: 20px;  
+      
+}
+.one h1{
+    color: blue;
+    font-size: 50px;
+}
+.two h1{
+    color: blue;
+    font-size: 50px;
+}
+.three h1{
+    color: blue;
+    font-size: 50px;
+}
+

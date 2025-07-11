@@ -156,3 +156,53 @@ nav button:hover{
     font-size: 50px;
 }
 
+
+/* Third Section */
+.Third-section{
+    margin: 0 auto;
+    width: 1140px;
+    height: 300px;
+    margin-bottom: 100px;
+    
+    padding: 20px;
+    border-radius: 30px;
+    background-color: white
+}
+.section-heading{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+.all-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.review-card{
+     box-shadow: 0 6px 20px 0  #F2EDED;
+     transition: 0.3s;
+     padding: 10px;
+     border-radius: 7px;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 15px;
+}
+.subtaitle{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.reviewer-info {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap: 10px;
+  margin-top: 15px;
+}
+.reviewer-info img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
